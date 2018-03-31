@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "GAS_Arduino", "GAS_Arduino.cppproj", "{8EBB4427-F528-42A1-BE69-57EF96DBCD3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EBB4427-F528-42A1-BE69-57EF96DBCD3B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{8EBB4427-F528-42A1-BE69-57EF96DBCD3B}.Debug|AVR.Build.0 = Debug|AVR
+		{8EBB4427-F528-42A1-BE69-57EF96DBCD3B}.Release|AVR.ActiveCfg = Release|AVR
+		{8EBB4427-F528-42A1-BE69-57EF96DBCD3B}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
